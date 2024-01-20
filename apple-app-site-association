@@ -1,0 +1,15 @@
+{
+    applinks: {
+        details: [
+            {
+                appIDs: ["ULM4SQD73Bqed.QED.forma"],
+                components: [
+               		{
+                	/: “*”
+                    }
+                ] 
+            }
+        ]
+    }
+}
+
